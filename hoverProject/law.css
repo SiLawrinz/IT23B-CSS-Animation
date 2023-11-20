@@ -1,0 +1,10 @@
+.background{
+    background-image: url(https://nbsc.edu.ph/is/assets/img/nbsclogo.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position-x: center;
+    background-position-y: 100px;
+}
+.background:hover .image{opacity: 0.3;
+
+}
